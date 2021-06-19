@@ -19,7 +19,7 @@ int main(void)
 
 	if (ult > 5)
 	{
-		printf("%s %d is %d and is greater than 5\n", c, n, utl);
+		printf("%s %d is %d and is greater than 5\n", c, n, ult);
 	}
 	else if (ult == 0)
 	{
