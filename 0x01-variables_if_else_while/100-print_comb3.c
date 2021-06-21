@@ -7,10 +7,11 @@
 int main(void)
 {
 	int ab;
+	int i;
 
 	for (ab = 48; ab <= 57; ab++)
 	{
-		for (int i = ab + 1; i <= 57; i++)
+		for (i = ab + 1; i <= 57; i++)
 		{
 			putchar(ab);
 			putchar(i);
