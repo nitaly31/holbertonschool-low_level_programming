@@ -1,10 +1,11 @@
 #include "holberton.h"
+
 /**
- * _isalpha - Indicates if a character is alphabetic
+ * _isalpha - Indicates if a character is alphabetic.
  *
- * @c: Caracter ASCII imprimible
+ * @c: Caracter ASCII imprimible.
  *
- * Return : 1 si c es una letra, minúscula o mayúscula, de lo contrario 0.
+ * Return: Returns 1 if c is a letter, lowercase or uppercase 0 otherwise.
  */
 
 int _isalpha(int c)
