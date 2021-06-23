@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * _isalpha - Indica si un carácter es alfabético
+ * _isalpha - Indicates if a character is alphabetic
  *
  * @c: Caracter ASCII imprimible
  *
