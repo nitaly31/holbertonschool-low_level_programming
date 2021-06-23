@@ -2,5 +2,6 @@
 #define _holberton_h_
 
 int _putchar(char c);
+void print_alphabet(void);
 
 #endif
