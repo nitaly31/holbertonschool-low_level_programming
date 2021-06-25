@@ -1,11 +1,12 @@
 #include "holberton.h"
 
 /**
- * _isalpha - Indicates if a character is alphabetic.
+ * mul - function that multiplies two integers.
  *
- * @c: Caracter ASCII imprimible.
+ * @a: number 1.
+ * @b: number 2.
  *
- * Return: Returns 1 if c is a letter, lowercase or uppercase 0 otherwise.
+ * Return: multiplies two integers.
  */
 
 int mul(int a, int b)
