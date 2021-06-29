@@ -9,7 +9,8 @@
 void print_rev(char *str)
 {
 	int i = 0;
-	int total_caracteres;
+	int total_caracteres = 0;
+	int c = 0;
 
 	while (str[i] != 0)
 	{
@@ -17,10 +18,10 @@ void print_rev(char *str)
 	}
 	total_caracteres = i;
 
-	for (int  c = 0; c < total_caracteres + 1; c++)
+	for (c = 0; c < total_caracteres + 1; c++)
 	{
-		putchar (str[total_caracteres - c]);
+		_putchar(str[total_caracteres - c]);
 	}
 
-	putchar ('\n');
+	_putchar('\n');
 }
