@@ -1,4 +1,5 @@
 #include "holberton.h"
+#include <stdio.h>
 
 /**
  * print_array - prints n elements of an array of
@@ -12,7 +13,6 @@
 void print_array(int *a, int n)
 {
 	int i;
-	int array[n];
 
 	for (i = 0; i < n; ++i)
 	{
@@ -25,5 +25,5 @@ void print_array(int *a, int n)
 			printf("%d, ", a[i]);
 		}
 	}
-	printf('\n');
+	printf("\n");
 }
