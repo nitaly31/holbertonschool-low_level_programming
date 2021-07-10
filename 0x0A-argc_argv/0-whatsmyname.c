@@ -1,5 +1,5 @@
-#include "holberton.h"
 #include <stdio.h>
+#include "holberton.h"
 
 /**
  * main - prints its name, followed by a new line.
