@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 	int i = 0;
 	int t = 0;
 
-	if((argc - 1) == 2)
+	if ((argc - 1) == 2)
 	{
 		t = ((atoi(argv[i + 1]) * atoi(argv[i + 2])));
 		printf("%d\n", t);
