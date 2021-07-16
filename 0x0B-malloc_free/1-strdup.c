@@ -12,17 +12,18 @@
 char *_strdup(char *str)
 {
 	char *copy;
-	unsigned int i = 0;
+	unsigned int i, len;
+
+	i = 0;
+	len = 0;
 
 	if (str == NULL)
-	{
 		return (NULL);
-	}
-	while (str[i])
-	{
-		i++;
-	}
-	copy = malloc(sizeof(char) * (i + 1));
+
+	while (str[len])
+		len++;
+
+	copy = malloc(sizeof(char) * (len + 1));
 
 	if (copy == NULL)
 		return (NULL);
