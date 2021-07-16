@@ -3,10 +3,9 @@
 #include <stdlib.h>
 
 /**
- * _strdup -  function that returns a pointer to a newly allocated
- * space in memory, which contains a copy of the string given as a parameter.
- * @str: string
- * Return: pointer to the array, or NULL if it fails.
+ * malloc_checked - allocates memory using malloc.
+ * @b: Number
+ * Return: a pointer to the allocated memory.
  */
 
 void *malloc_checked(unsigned int b)
