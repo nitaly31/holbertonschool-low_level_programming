@@ -1,4 +1,4 @@
-#define _variadic_funtions_h_
+#ifndef _variadic_funtions_h_
 #define _variadic_funtions_h_
 
 int sum_them_all(const unsigned int n, ...);
