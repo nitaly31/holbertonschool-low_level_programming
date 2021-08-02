@@ -6,7 +6,6 @@
  * @separator: string to be seperated between numbers
  * @n: number of arguements
  * Return: nothing
-
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
