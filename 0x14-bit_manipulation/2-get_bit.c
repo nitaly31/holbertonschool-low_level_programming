@@ -1,4 +1,4 @@
-#include "lists.h"
+#include "main.h"
 
 /**
  * get_bit - Function that returns the value of a bit at a given index.
