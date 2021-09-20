@@ -39,4 +39,14 @@ typedef struct dlistint_s
 
 | File | Description |
 | --- | --- |
-| | |
+|[0-print_dlistint.c](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x17-doubly_linked_lists/0-print_dlistint.c) | Function that prints all the elements of a list. |
+|[1-dlistint_len.c](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x17-doubly_linked_lists/1-dlistint_len.c)| Function that prints the count of all the elements of a list.|
+|[]()| |
+|[]()| |
+|[]()| |
+|[]()| |
+|[]()| |
+|[]()| |
+|[]()| |
+|[]()| |
+|[]()| |
