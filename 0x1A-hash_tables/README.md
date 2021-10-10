@@ -1,12 +1,12 @@
 # Project 0x1A. C - Hash tables 📚
 
-### Description
+### :pencil2: Description
 ***
-The hash table is a data structure that associates keys or keys with values./
-The main operation that it efficiently supports is the search: it allows access/
+The hash table is a data structure that associates keys or keys with values.
+The main operation that it efficiently supports is the search: it allows access
 to the stored elements from a generated key.
 
-### Requirements
+### :clipboard: Requirements
 ***
 * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 * You are not allowed to use global variables
