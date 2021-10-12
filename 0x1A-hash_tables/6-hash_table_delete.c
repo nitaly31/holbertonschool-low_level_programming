@@ -32,7 +32,7 @@ void hash_table_delete(hash_table_t *ht)
 
 void free_list(hash_node_t *head)
 {
-	if(!head)
+	if (!head)
 		return;
 	free_list(head->next);
 	free(head->value);
