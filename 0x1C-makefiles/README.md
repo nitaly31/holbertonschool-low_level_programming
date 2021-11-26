@@ -18,14 +18,14 @@ In the following tasks, we are going to use [these files](https://github.com/hol
 #### Mandatory:
 | Files | Description |
 | --- | --- |
-| [0-Makefile]() | Builds an executable with `all` rule. |
-| [1-Makefile]() | Builds an executable specifying a compiler and source files (`CC` and `SRC` variables). |
-| [2-Makefile]() | Builds an executable using `all` rules, and `CC`, `SRC`, `OBJ` and `NAME` variables. |
-| [3-Makefile]() | Builds an executable using `all`, `clean`, `oclean`, `fclean` and `re` rules, and `CC`, `SRC`, `OBJ`, `NAME` and `RM` variables |
-| [4-Makefile]() | Builds an executable using `all`, `clean`, `fclean`, `oclean` and `re` rules, and `CC`, `SRC`, `OBJ`, `NAME`, `RM` and `CFLAGS` variables. |
-| [5-island_perimeter.py]() | Function that returns the perimeter of an island described in `grid` list. |
+| [0-Makefile](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/0-Makefile) | Builds an executable with `all` rule. |
+| [1-Makefile](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/1-Makefile) | Builds an executable specifying a compiler and source files (`CC` and `SRC` variables). |
+| [2-Makefile](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/2-Makefile) | Builds an executable using `all` rules, and `CC`, `SRC`, `OBJ` and `NAME` variables. |
+| [3-Makefile](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/3-Makefile) | Builds an executable using `all`, `clean`, `oclean`, `fclean` and `re` rules, and `CC`, `SRC`, `OBJ`, `NAME` and `RM` variables |
+| [4-Makefile](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/4-Makefile) | Builds an executable using `all`, `clean`, `fclean`, `oclean` and `re` rules, and `CC`, `SRC`, `OBJ`, `NAME`, `RM` and `CFLAGS` variables. |
+| [5-island_perimeter.py](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/5-island_perimeter.py) | Function that returns the perimeter of an island described in `grid` list. |
 
 #### Advanced:
 | Files | Description |
 | --- | --- |
-| []() |  |
+| [100-Makefile](https://github.com/nitaly31/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/100-Makefile) | Complete Makefile with all of the variables and rules previously mentioned. |
