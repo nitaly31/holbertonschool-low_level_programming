@@ -52,4 +52,4 @@ All the following folders are projects carried out during studies:
 ***
 *Holberton School Student*
 
-geraldine Meneses - [GitHub](https://github.com/nitaly31) | [LinkedIn](https://www.linkedin.com/in/geraldine-meneses/)
+Geraldine Meneses - [GitHub](https://github.com/nitaly31) | [LinkedIn](https://www.linkedin.com/in/geraldine-meneses/)
